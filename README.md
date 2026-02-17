@@ -1,4 +1,4 @@
-# IvanKosmyninGame
+# Java Game Abstarction
 
 ![Java Version](https://img.shields.io)
 ![Build Status](https://img.shields.io)
@@ -22,3 +22,4 @@ To deploy and run the abstraction locally, execute the following commands:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
+
